@@ -1,2 +1,1 @@
-# Treehouseprojects
-A number guessing game
+This particular game is a number guessing game, where the player enters thier name and then attempts to guess the number randomly generated.  They will be able to see how many times they have guessed, if it is high or low, and the high score.
